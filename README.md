@@ -7,5 +7,5 @@ make
 Enter scene...
 
 Also
-You can see example video
+You can see the video example
 Rt.mov 
